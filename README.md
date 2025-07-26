@@ -1,1 +1,1 @@
-# An-lise-de-t-picos-com-LSA-usando-Gensim-e-NLTK
+Analise de topicos com LSA usando Gensime e NLTK
